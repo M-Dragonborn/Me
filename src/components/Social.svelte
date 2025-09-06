@@ -20,7 +20,7 @@
 		display: flex;
 		gap: 0.5rem;
 		font-size: 1rem;
-		padding: 0.45rem;
+		padding: 0.55rem;
 		align-items: center;
 
 		a:hover {
