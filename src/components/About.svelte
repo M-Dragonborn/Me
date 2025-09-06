@@ -11,7 +11,7 @@
 		>
 		student from California.<br />
 		My primary career is managing an industrial machinery manufacturing company owned by my family. As
-		a hobby, I work on various open-source community projects, and I also do freelance work periodically.
+		a hobby, I work on various open-source community projects, and I also do freelance work every now and then.
 		I am a gamer & an audiophile who is currently learning programming a bit too seriously. I have knowledge
 		in a few different programming languages like
 		<span class="highlight">Python</span>,
