@@ -36,5 +36,9 @@
     .highlight {
         color: #48a0ff;
     }
+	.highlight:hover {
+		color: #02ffe1;
+		text-shadow: 0 0 8px #02ffe1, 0 0 16px #0084ff;
+	}
 	
 </style>
