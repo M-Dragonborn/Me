@@ -20,6 +20,7 @@
         display: flex;
         gap: 0.5rem;
 		font-size:1rem;
+        padding:0.45rem;
 
         a:hover {
             color: var(--white);
