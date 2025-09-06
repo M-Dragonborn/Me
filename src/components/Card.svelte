@@ -4,6 +4,7 @@
 	import About from '../components/About.svelte';
 	import Socials from './Socials.svelte';
 </script>
+
 <div id="particles-js"></div>
 <div class="card-center">
 	<div id="card">
@@ -13,20 +14,20 @@
 		<div id="card-container">
 			<Title />
 			<div id="components">
-			<Socials />
-			<About />
+				<Socials />
+				<About />
 			</div>
 		</div>
 	</div>
 </div>
-<style lang="scss">
 
+<style lang="scss">
 	.card-center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    width: 100vw;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		min-height: 100vh;
+		width: 100vw;
 	}
 	#card,
 	#components {
@@ -53,7 +54,9 @@
 		padding: 25px;
 		max-width: 1450px;
 		background: #131313eb;
-		box-shadow: 0 0 8px #02ffe1, 0 0 30px #0084ff;
+		box-shadow:
+			0 0 8px #02ffe1,
+			0 0 30px #0084ff;
 
 		// Full HD
 		@media (max-width: 1800px) {

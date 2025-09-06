@@ -13,7 +13,7 @@
 </script>
 
 <section>
-	<SectionHeader icon={faLink}  text="Socials" />
+	<SectionHeader icon={faLink} text="Socials" />
 	<ul>
 		<Social
 			faIcon={faDiscord}
@@ -23,13 +23,13 @@
 		/>
 		<Social faIcon={faGithub} link="https://github.com/M-Dragonborn" anchor="github" />
 		<Social faIcon={faTelegramPlane} link="https://t.me/MDragonborn" anchor="telegram" />
-		<Social
-			faIcon={faYoutube}
-			link="https://www.youtube.com/@mdragonborn"
-			anchor="youtube"
-		/>
+		<Social faIcon={faYoutube} link="https://www.youtube.com/@mdragonborn" anchor="youtube" />
 		<Social faIcon={faGamepad} link="https://steamcommunity.com/id/M-Dragonborn/" anchor="Steam" />
-		<Social faIcon={faChessKnight} link="https://www.chess.com/member/m_dragonborn" anchor="chess" />
+		<Social
+			faIcon={faChessKnight}
+			link="https://www.chess.com/member/m_dragonborn"
+			anchor="chess"
+		/>
 		<Social
 			faIcon={faEnvelope}
 			link="mailto:mdragonborn007@gmail.com"

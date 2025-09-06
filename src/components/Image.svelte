@@ -1,7 +1,4 @@
-<img
-	src="pfpmain.webp"
-	alt="M_Dragonborn"
-/>
+<img src="pfpmain.webp" alt="M_Dragonborn" />
 
 <style lang="scss">
 	img {
