@@ -6,7 +6,7 @@
 <section>
 	<SectionHeader icon={faAddressCard} text="About Me" />
 	<p>
-		Hello there! My name is M_Dragonborn. I'm a 22-year-old <span class="highlight"
+		Hello there! My name is <span class="hightlight">M_Dragonborn</span>M_Dragonborn. I'm a 22-year-old <span class="highlight"
 			>computer science</span
 		>
 		student from California.<br />
