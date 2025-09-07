@@ -25,7 +25,7 @@
 		<Social faIcon={faGithub} link="https://github.com/M-Dragonborn" anchor="github" />
 		<Social faIcon={faTelegramPlane} link="https://t.me/MDragonborn" anchor="telegram" />
 		<Social faIcon={faYoutube} link="https://www.youtube.com/@mdragonborn" anchor="youtube" />
-		<Social faIcon={faGamepad} link="https://steamcommunity.com/id/M-Dragonborn/" anchor="Steam" />
+		<Social faIcon={faGamepad} link="https://steamcommunity.com/id/M-Dragonborn/" anchor="steam" />
 		<Social
 			faIcon={faChessKnight}
 			link="https://www.chess.com/member/m_dragonborn"
