@@ -23,7 +23,6 @@
 			overrideText="M_Dragonborn"
 		/>
 		<Social faIcon={faGithub} link="https://github.com/M-Dragonborn" anchor="github" />
-		<Social faIcon={faLinkedin} link="https://www.linkedin.com/in/musfiq-rahman-78a30937b/" anchor="LinkedIn" />
 		<Social faIcon={faTelegramPlane} link="https://t.me/MDragonborn" anchor="telegram" />
 		<Social faIcon={faYoutube} link="https://www.youtube.com/@mdragonborn" anchor="youtube" />
 		<Social faIcon={faGamepad} link="https://steamcommunity.com/id/M-Dragonborn/" anchor="Steam" />
