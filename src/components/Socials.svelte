@@ -3,6 +3,7 @@
 	import {
 		faDiscord,
 		faGithub,
+		faLinkedin,
 		faReddit,
 		faTelegramPlane,
 		faTwitter,
