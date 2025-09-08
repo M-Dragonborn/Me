@@ -43,5 +43,10 @@
 <style lang="scss">
 	ul {
 		list-style: none;
+		padding: 0;
+		margin: 0.5rem 0;
+		display:flex;
+		flex-direction: column;
+		gap: 0.5rem; /* spacing between socials */
 	}
 </style>
